@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aaryan6367/Github-Questions/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aaryan6367/Github-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/Aaryan6367/Github-Questions/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aaryan6367/Github-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Aaryan6367/Github-Questions/tree/master/0169-majority-element) |
 | [0410-split-array-largest-sum](https://github.com/Aaryan6367/Github-Questions/tree/master/0410-split-array-largest-sum) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Aaryan6367/Github-Questions/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Aaryan6367/Github-Questions/tree/master/0169-majority-element) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Aaryan6367/Github-Questions/tree/master/1552-magnetic-force-between-two-balls) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aaryan6367/Github-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aaryan6367/Github-Questions/tree/master/0011-container-with-most-water) |
+| [0075-sort-colors](https://github.com/Aaryan6367/Github-Questions/tree/master/0075-sort-colors) |
 ## Prefix Sum
 |  |
 | ------- |
