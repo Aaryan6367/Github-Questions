@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aaryan6367/Github-Questions/tree/master/0011-container-with-most-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aaryan6367/Github-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Aaryan6367/Github-Questions/tree/master/0169-majority-element) |
 | [2354-number-of-excellent-pairs](https://github.com/Aaryan6367/Github-Questions/tree/master/2354-number-of-excellent-pairs) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Aaryan6367/Github-Questions/tree/master/0011-container-with-most-water) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aaryan6367/Github-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Sorting
 |  |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aaryan6367/Github-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Aaryan6367/Github-Questions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
