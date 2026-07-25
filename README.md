@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Aaryan6367/Github-Questions/tree/master/0011-container-with-most-water) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aaryan6367/Github-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aaryan6367/Github-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Aaryan6367/Github-Questions/tree/master/0169-majority-element) |
 | [2354-number-of-excellent-pairs](https://github.com/Aaryan6367/Github-Questions/tree/master/2354-number-of-excellent-pairs) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Aaryan6367/Github-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [2354-number-of-excellent-pairs](https://github.com/Aaryan6367/Github-Questions/tree/master/2354-number-of-excellent-pairs) |
 ## Bit Manipulation
 |  |
