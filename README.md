@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Aaryan6367/Github-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aaryan6367/Github-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 ## Ordered Set
 |  |
@@ -102,4 +103,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aaryan6367/Github-Questions/tree/master/0125-valid-palindrome) |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Aaryan6367/Github-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Stack
+|  |
+| ------- |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/Aaryan6367/Github-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
