@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Aaryan6367/Github-Questions/tree/master/0169-majority-element) |
+| [0567-permutation-in-string](https://github.com/Aaryan6367/Github-Questions/tree/master/0567-permutation-in-string) |
 | [2354-number-of-excellent-pairs](https://github.com/Aaryan6367/Github-Questions/tree/master/2354-number-of-excellent-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aaryan6367/Github-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/Aaryan6367/Github-Questions/tree/master/2363-merge-similar-items) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Aaryan6367/Github-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aaryan6367/Github-Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aaryan6367/Github-Questions/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/Aaryan6367/Github-Questions/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -103,9 +105,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Aaryan6367/Github-Questions/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/Aaryan6367/Github-Questions/tree/master/0567-permutation-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aaryan6367/Github-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Stack
 |  |
 | ------- |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aaryan6367/Github-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Aaryan6367/Github-Questions/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
