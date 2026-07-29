@@ -17,21 +17,18 @@ bool checkInclusion(string s1, string s2) {
     {
         freq[s1[i]-'a']++;
     }
-    for (int i = 0; i < s2.length(); i++)
+    int freq1[26]={0};
+    for (int i = 0; i < s1.length(); i++)
     {
-        int windlength=s1.length();
-        int windIdx=0,idx=i;
-        int windFreq[26]={0};
-
-        while(windIdx<windlength && idx<s2.length()){
-            windFreq[s2[idx]-'a']++;
-            idx++;windIdx++;
-        }
-        if(isFreqSame(freq,windFreq)){
-            return true;
-        }
+        freq1[s2[i]-'a']++;
     }
-    
+    if(isFreqSame(freq,freq1)) return true;
+    for (int i = 1; i < s2.length()-s1.length()+1; i++)
+    {
+        freq1[s2[i-1]-'a']--;
+        freq1[s2[i+s1.length()-1]-'a']++;
+        if(isFreqSame(freq,freq1)) return true;
+    }
     return false;
 }
 };
