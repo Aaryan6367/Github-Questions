@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Aaryan6367/Github-Questions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Aaryan6367/Github-Questions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aaryan6367/Github-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Aaryan6367/Github-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Aaryan6367/Github-Questions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Aaryan6367/Github-Questions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aaryan6367/Github-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aaryan6367/Github-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/Aaryan6367/Github-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/Aaryan6367/Github-Questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aaryan6367/Github-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aaryan6367/Github-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Aaryan6367/Github-Questions/tree/master/0567-permutation-in-string) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Aaryan6367/Github-Questions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
