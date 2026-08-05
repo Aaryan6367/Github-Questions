@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aaryan6367/Github-Questions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0169-majority-element](https://github.com/Aaryan6367/Github-Questions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aaryan6367/Github-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Aaryan6367/Github-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Aaryan6367/Github-Questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aaryan6367/Github-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aaryan6367/Github-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Aaryan6367/Github-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/Aaryan6367/Github-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aaryan6367/Github-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Aaryan6367/Github-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/Aaryan6367/Github-Questions/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Aaryan6367/Github-Questions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aaryan6367/Github-Questions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aaryan6367/Github-Questions/tree/master/0287-find-the-duplicate-number) |
 | [2354-number-of-excellent-pairs](https://github.com/Aaryan6367/Github-Questions/tree/master/2354-number-of-excellent-pairs) |
 ## Greedy
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Aaryan6367/Github-Questions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Aaryan6367/Github-Questions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Aaryan6367/Github-Questions/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/Aaryan6367/Github-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/Aaryan6367/Github-Questions/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/Aaryan6367/Github-Questions/tree/master/0567-permutation-in-string) |
 ## Prefix Sum
@@ -134,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aaryan6367/Github-Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Aaryan6367/Github-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aaryan6367/Github-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aaryan6367/Github-Questions/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Aaryan6367/Github-Questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
