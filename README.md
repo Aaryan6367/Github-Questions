@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Aaryan6367/Github-Questions/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/Aaryan6367/Github-Questions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aaryan6367/Github-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Aaryan6367/Github-Questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Aaryan6367/Github-Questions/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Aaryan6367/Github-Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Aaryan6367/Github-Questions/tree/master/0074-search-a-2d-matrix) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Aaryan6367/Github-Questions/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Aaryan6367/Github-Questions/tree/master/0037-sudoku-solver) |
 | [0169-majority-element](https://github.com/Aaryan6367/Github-Questions/tree/master/0169-majority-element) |
 | [0567-permutation-in-string](https://github.com/Aaryan6367/Github-Questions/tree/master/0567-permutation-in-string) |
 | [2354-number-of-excellent-pairs](https://github.com/Aaryan6367/Github-Questions/tree/master/2354-number-of-excellent-pairs) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aaryan6367/Github-Questions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Aaryan6367/Github-Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Aaryan6367/Github-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aaryan6367/Github-Questions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -150,9 +153,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aaryan6367/Github-Questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Aaryan6367/Github-Questions/tree/master/0051-n-queens) |
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Aaryan6367/Github-Questions/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/Aaryan6367/Github-Questions/tree/master/0051-n-queens) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Aaryan6367/Github-Questions/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
