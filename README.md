@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2354-number-of-excellent-pairs](https://github.com/Aaryan6367/Github-Questions/tree/master/2354-number-of-excellent-pairs) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aaryan6367/Github-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2363-merge-similar-items](https://github.com/Aaryan6367/Github-Questions/tree/master/2363-merge-similar-items) |
+| [2596-check-knight-tour-configuration](https://github.com/Aaryan6367/Github-Questions/tree/master/2596-check-knight-tour-configuration) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aaryan6367/Github-Questions/tree/master/0054-spiral-matrix) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/Aaryan6367/Github-Questions/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Aaryan6367/Github-Questions/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2596-check-knight-tour-configuration](https://github.com/Aaryan6367/Github-Questions/tree/master/2596-check-knight-tour-configuration) |
 ## Ordered Set
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Aaryan6367/Github-Questions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Aaryan6367/Github-Questions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Aaryan6367/Github-Questions/tree/master/0240-search-a-2d-matrix-ii) |
+| [2596-check-knight-tour-configuration](https://github.com/Aaryan6367/Github-Questions/tree/master/2596-check-knight-tour-configuration) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -167,4 +170,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Aaryan6367/Github-Questions/tree/master/0037-sudoku-solver) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Aaryan6367/Github-Questions/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/Aaryan6367/Github-Questions/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
